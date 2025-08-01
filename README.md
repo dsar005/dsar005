@@ -5,10 +5,12 @@
 </p>
 
 
-<p align="center" style="position: relative; width: 160px; height: 160px;">
-  <img src="https://i.pinimg.com/564x/fb/a0/ba/fba0ba2c33fde3822352fdee5fce1c9b.jpg" alt="Background" width="160" height="160" style="border-radius: 50%; filter: blur(2px); opacity: 0.7; position: absolute; top: 0; left: 0; z-index: 1;" />
-  <img src="https://avatars.githubusercontent.com/dsar005?s=160" alt="Profile Pic" width="100" height="100" style="border-radius: 50%; position: absolute; top: 30px; left: 30px; z-index: 2; border: 4px solid #ffffff;" />
+<p align="center">
+  <img src="https://i.pinimg.com/564x/fb/a0/ba/fba0ba2c33fde3822352fdee5fce1c9b.jpg" alt="Background" width="220" style="border-radius:50%">
+  <br>
+  <img src="https://avatars.githubusercontent.com/dsar005?s=120" alt="Profile Pic" width="120" style="border-radius:50%; margin-top:-80px; border:4px solid white;">
 </p>
+
 
 
 <p align="center">
