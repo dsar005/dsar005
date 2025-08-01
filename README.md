@@ -28,7 +28,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dsar005&theme=radical" alt="GitHub Streak" />
+  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=dsar005&theme=radical](https://camo.githubusercontent.com/7790e60116ee57ee8ba0bffd1b5face2dbfe9429c18024b6e3e7ce14f249b2ae/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d64736172303035267468656d653d7261646963616c)" alt="GitHub Streak" />
 </p>
 
 <p align="center">
