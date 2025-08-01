@@ -13,10 +13,10 @@
 <p align="center">
   <a href="https://github.com/dsar005">
     <img src="https://img.shields.io/github/followers/dsar005?label=GitHub&logo=github&style=for-the-badge&color=green" alt="GitHub Followers" />
-  </a>
+<!--   </a>
   <a href="https://t.me/dsar005">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram" alt="Telegram" />
-  </a>
+  </a> -->
 </p>
 
 ---
