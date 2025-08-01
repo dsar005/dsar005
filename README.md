@@ -1,7 +1,7 @@
 <h1 align="center">I'm dsar005</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=1C71FA&width=420&lines=no+one;D+S+A+R+0+0+5" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=1C71FA&width=420&lines=D+S;0+0+5" alt="Typing Animation"/>
 </p>
 
 
