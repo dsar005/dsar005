@@ -1,25 +1,20 @@
 <h1 align="center">I'm dsar005</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=1C71FA&width=420&lines=E+R+R+O+R;4+0+4" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=1C71FA&width=420&lines=E+R+R+O+R+ +4+0+4" alt="Typing Animation"/>
 </p>
-
 
 <p align="center">
-  <img src="https://i.pinimg.com/564x/fb/a0/ba/fba0ba2c33fde3822352fdee5fce1c9b.jpg" alt="Background" width="220" style="border-radius:50%">
- 
+  <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="180" alt="GitHub Octocat" />
+  <!-- Or use your profile image URL as needed! -->
 </p>
-
-
 
 <p align="center">
   <a href="https://github.com/dsar005">
-    <img src="https://img.shields.io/github/followers/dsar005?label=GitHub&logo=github&style=for-the-badge&color=green" alt="GitHub Followers" />
-<!--   </a>
-  <a href="https://t.me/dsar005">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram" alt="Telegram" />
-  </a> -->
+    <img src="https://img.shields.io/github/followers/dsar005?label=GitHub&logo=github&style=for-the-badge&color=green" />
+  </a>
 </p>
+
 
 ---
 
