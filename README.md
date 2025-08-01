@@ -7,8 +7,7 @@
 
 <p align="center">
   <img src="https://i.pinimg.com/564x/fb/a0/ba/fba0ba2c33fde3822352fdee5fce1c9b.jpg" alt="Background" width="220" style="border-radius:50%">
-  <br>
-  <img src="https://avatars.githubusercontent.com/dsar005?s=120" alt="Profile Pic" width="120" style="border-radius:50%; margin-top:-80px; border:4px solid white;">
+ 
 </p>
 
 
