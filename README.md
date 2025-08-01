@@ -28,7 +28,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=dsar005&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
