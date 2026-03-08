@@ -1,4 +1,4 @@
-<h1 align="center">I'm dsar005</h1>
+<h1 align="center">I'm Debangshu</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=1C71FA&width=420&lines=E+R+R+O+R+4+0+4;" alt="Typing Animation"/>
